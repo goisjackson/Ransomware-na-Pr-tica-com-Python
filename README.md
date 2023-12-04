@@ -4,7 +4,7 @@
 
 Nesse desafio consistiu no desenvolvimento de um programa capaz de realizar operações de criptografia e descriptografia em arquivos de texto (TXT). 
 
-### Requisitos do Programa
+### Requisitos do Desafio
 
 1. **Criptografia Segura:** Implementar um algoritmo de criptografia que garantisse a segurança dos dados. O método escolhido deveria ser robusto o suficiente para resistir a tentativas de quebra.
 
